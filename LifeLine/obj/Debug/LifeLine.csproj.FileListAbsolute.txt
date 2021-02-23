@@ -1,0 +1,36 @@
+C:\Users\Amit\Desktop\Life Line\LifeLine\bin\Debug\LifeLine.exe.config
+C:\Users\Amit\Desktop\Life Line\LifeLine\bin\Debug\LifeLine.exe
+C:\Users\Amit\Desktop\Life Line\LifeLine\bin\Debug\LifeLine.pdb
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.DiagnosisForm.resources
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.DoctorForm.resources
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.Form1.resources
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.Home.resources
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.PatientForm.resources
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.Properties.Resources.resources
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.SplashForm.resources
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.csproj.GenerateResource.cache
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.csproj.CopyComplete
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.exe
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.pdb
+C:\Users\Amit\Desktop\Life Line\LifeLine\obj\Debug\LifeLine.Register.resources
+C:\Users\Amit\Desktop\Life Line\LifeLine\bin\Debug\MetroFramework.dll
+E:\p final\Life Line\LifeLine\bin\Debug\LifeLine.exe.config
+E:\p final\Life Line\LifeLine\bin\Debug\LifeLine.exe
+E:\p final\Life Line\LifeLine\bin\Debug\LifeLine.pdb
+E:\p final\Life Line\LifeLine\bin\Debug\MetroFramework.dll
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.csprojAssemblyReference.cache
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.DiagnosisForm.resources
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.DoctorForm.resources
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.Form1.resources
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.Home.resources
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.PatientForm.resources
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.Properties.Resources.resources
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.Register.resources
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.SplashForm.resources
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.csproj.GenerateResource.cache
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.csproj.CoreCompileInputs.cache
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.csproj.CopyComplete
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.exe
+E:\p final\Life Line\LifeLine\obj\Debug\LifeLine.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeLine", "LifeLine\LifeLine.csproj", "{4A913750-E705-4941-906F-508C8D108160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A913750-E705-4941-906F-508C8D108160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A913750-E705-4941-906F-508C8D108160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A913750-E705-4941-906F-508C8D108160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A913750-E705-4941-906F-508C8D108160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB39A3EE-5B3D-4B1A-9921-451C2B7CFA8C}
+	EndGlobalSection
+EndGlobal

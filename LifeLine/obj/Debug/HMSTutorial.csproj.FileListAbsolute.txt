@@ -1,0 +1,16 @@
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\bin\Debug\HMSTutorial.exe.config
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\bin\Debug\HMSTutorial.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\bin\Debug\HMSTutorial.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.Form1.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.Properties.Resources.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.csproj.GenerateResource.Cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.Home.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.DoctorForm.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\bin\Debug\Guna.UI2.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.csprojResolveAssemblyReference.cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.DiagnosisForm.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.PatientForm.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\HMSTutorial\HMSTutorial\obj\Debug\HMSTutorial.SplashForm.resources
